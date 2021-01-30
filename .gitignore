@@ -3,6 +3,7 @@ __pycache__
 *.tar
 Images/*
 Annotation/*
+.ipynb_checkpoints/
 
 
 
